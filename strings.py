@@ -16,7 +16,8 @@ print(name.count("e"))
 print(len(name))
 print(name.replace("e", "t"))
 # this is a new change
-<<<<<<< HEAD
-=======
+
+# hi abhiram
+
 # done by the abhiram.
->>>>>>> ccc399aee170048ed53059091f02a1c3ed0c64c0
+
